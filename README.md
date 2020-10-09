@@ -74,3 +74,5 @@ LSTM also have a chain like structure but repeating module has a different struc
 9.	Generate the accuracy score.
 10.	Return the score.
 
+### Conclusion
+This framework provides a dynamic model for loading corpus into Mongo DB and using text classification.
